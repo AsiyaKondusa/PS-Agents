@@ -16,3 +16,55 @@ PEAS FRAMEWORK
 5. Sequential - Choice of action by agent is dependent on previous actions- To get to Nyahururu, one can choose different routes like A014 to B5 or A3 to B7 to B6 then B5. The route it chooses will determine which roads and junctions it encounters next, influencing its previous actions until it reaches its destination. 
 
    
+**Question 2**:Developing a suitable directed graph and search tree
+# Nairobi to Kisumu Distances
+
+## Route 1
+
+Nairobi → Naivasha → Nakuru → Kericho → Kisumu
+
+| From     | To       | Distance |
+|----------|----------|----------|
+| Nairobi  | Naivasha | 91 km    |
+| Naivasha | Nakuru   | 71.0 km  |
+| Nakuru   | Kericho  | 107.0 km |
+| Kericho  | Kisumu   | 84.0 km  |
+
+## Route 2
+
+Nairobi → Naivasha → Nakuru → Eldoret → Kisumu
+
+| From     | To       | Distance |
+|----------|----------|----------|
+| Nairobi  | Naivasha | 91.0 km  |
+| Naivasha | Nakuru   | 71.0 km  |
+| Nakuru   | Eldoret  | 156.0 km |
+| Eldoret  | Kisumu   | 138.0 km |
+
+## Route 3
+
+Nairobi → Narok → Bomet → Kisii → HomaBay → Kisumu
+
+| From    | To      | Distance |
+|---------|---------|----------|
+| Nairobi | Narok   | 143.0 km |
+| Narok   | Bomet   | 81.0 km  |
+| Bomet   | Kisii   | 82.4 km  |
+| Kisii   | HomaBay | 52.0 km  |
+| HomaBay | Kisumu  | 108.0 km |
+
+## Route 4
+
+Nairobi → Narok → Bomet → Litein → Kericho → Kisumu
+
+| From    | To      | Distance |
+|---------|---------|----------|
+| Nairobi | Narok   | 143.0 km |
+| Narok   | Bomet   | 81.0 km  |
+| Bomet   | Litein  | 44.1 km  |
+| Litein  | Kericho | 32.0 km  |
+| Kericho | Kisumu  | 84 km    |
+
+
+Graph:
+<img width="979" height="1097" alt="Graph - Nairobi_Kisumu" src="https://github.com/user-attachments/assets/4adf9f16-3df9-4904-a6b7-3fa8003fb200" />
