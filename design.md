@@ -16,7 +16,8 @@ PEAS FRAMEWORK
 5. Sequential - Choice of action by agent is dependent on previous actions- To get to Nyahururu, one can choose different routes like A014 to B5 or A3 to B7 to B6 then B5. The route it chooses will determine which roads and junctions it encounters next, influencing its previous actions until it reaches its destination. 
 
    
-**Question 2**:Developing a suitable directed graph and search tree
+# Question 2:
+## Developing a suitable directed graph and search tree
 # Nairobi to Kisumu Distances
 
 ## Route 1
@@ -66,5 +67,6 @@ Nairobi → Narok → Bomet → Litein → Kericho → Kisumu
 | Kericho | Kisumu  | 84 km    |
 
 
-Graph:
-<img width="979" height="1097" alt="Graph - Nairobi_Kisumu" src="https://github.com/user-attachments/assets/4adf9f16-3df9-4904-a6b7-3fa8003fb200" />
+Directed Graph:
+<img width="979" height="1097" alt="Directed_Graph - Nairobi_Kisumu" src="https://github.com/user-attachments/assets/d9e407c7-b78e-4135-8c79-f94fa93df959" />
+
