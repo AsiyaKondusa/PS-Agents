@@ -88,3 +88,6 @@ path cost function = 143.0 + 81.0 + 44.1 + 32.0 + 84.0 = 384.1km
 ## optimal path conclusion:
 In conclusion after comparing all possible routes, route 1 yields the lowest path cost at 353.0km. Therefore, the optimal path selected by the self-driving trailer agent is:
 Nairobi → Naivasha → Nakuru → Kericho → Kisumu
+
+## Group Photo
+![Group Photo](./Group%20Photo.jpeg)
