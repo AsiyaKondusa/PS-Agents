@@ -70,3 +70,21 @@ Nairobi → Narok → Bomet → Litein → Kericho → Kisumu
 Directed Graph:
 <img width="979" height="1097" alt="Directed_Graph - Nairobi_Kisumu" src="https://github.com/user-attachments/assets/d9e407c7-b78e-4135-8c79-f94fa93df959" />
 
+# Question 3:
+## Determine the optimal path the trailer can take from Nairobi to Kisumu & Calculate the distance between towns
+
+### Route 1: Nairobi → Naivasha → Nakuru → Kericho → Kisumu
+path cost function = 91 + 71.0 + 107.0 + 84.0 = 353.0km
+
+### Route 2: Nairobi → Naivasha → Nakuru → Eldoret → Kisumu
+path cost function = 91.0 + 71.0 + 156.0 + 138.0 = 456.0km
+
+### Route 3: Nairobi → Narok → Bomet → Kisii → HomaBay → Kisumu
+path cost function = 143.0 + 81.0 + 82.4 + 52.0 +108.0 = 466.4km
+
+### Route 4: Nairobi → Narok → Bomet → Litein → Kericho → Kisumu
+path cost function = 143.0 + 81.0 + 44.1 + 32.0 + 84.0 = 384.1km
+
+## optimal path conclusion:
+In conclusion after comparing all possible routes, route 1 yields the lowest path cost at 353.0km. Therefore, the optimal path selected by the self-driving trailer agent is:
+Nairobi → Naivasha → Nakuru → Kericho → Kisumu
