@@ -68,7 +68,8 @@ Nairobi → Narok → Bomet → Litein → Kericho → Kisumu
 
 
 Directed Graph:
-<img width="979" height="1097" alt="Directed_Graph - Nairobi_Kisumu" src="https://github.com/user-attachments/assets/d9e407c7-b78e-4135-8c79-f94fa93df959" />
+<img width="958" height="1097" alt="Directed_Graph_Nairobi-Kisumu" src="https://github.com/user-attachments/assets/85dd4143-ab9d-4082-ae42-1f685840b683" />
+
 
 # Question 3:
 ## Determine the optimal path the trailer can take from Nairobi to Kisumu & Calculate the distance between towns
