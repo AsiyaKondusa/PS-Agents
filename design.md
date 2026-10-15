@@ -91,4 +91,4 @@ In conclusion after comparing all possible routes, route 1 yields the lowest pat
 Nairobi → Naivasha → Nakuru → Kericho → Kisumu
 
 ## Group Photo
-![Group Photo](./Group%20Photo.jpeg)
+![Group Photo](https://github.com/AsiyaKondusa/PS-Agents/blob/cadd85c368a9e91b1861798cccb7214a913babce/WhatsApp%20Image%202026-10-15%20at%203.21.57%20PM.jpeg)
