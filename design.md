@@ -68,7 +68,8 @@ Nairobi → Narok → Bomet → Litein → Kericho → Kisumu
 
 
 Directed Graph:
-<img width="958" height="1097" alt="Directed_Graph_Nairobi-Kisumu" src="https://github.com/user-attachments/assets/85dd4143-ab9d-4082-ae42-1f685840b683" />
+<img width="958" height="1177" alt="Directed Graph - Group - 12" src="https://github.com/user-attachments/assets/6f401802-cf6d-4ecd-b607-8e5d0a9e9f3f" />
+
 
 
 # Question 3:
